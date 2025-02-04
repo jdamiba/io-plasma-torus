@@ -578,19 +578,6 @@ export default function Home() {
     <div className="relative w-full h-screen">
       <canvas ref={canvasRef} className="w-full h-full" />
 
-      {/* Moon Label */}
-      <div className="absolute inset-0 pointer-events-none">
-        <div className="absolute top-4 right-4 bg-black/70 text-white p-4 rounded-lg">
-          <div className="flex items-center">
-            <div
-              className="w-3 h-3 rounded-full mr-2"
-              style={{ backgroundColor: "#ffff00" }}
-            ></div>
-            <span>Io</span>
-          </div>
-        </div>
-      </div>
-
       {/* Info Panel */}
       <div className="absolute top-4 left-4 bg-black/70 text-white p-4 rounded-lg max-w-xl space-y-4">
         <h1 className="text-xl font-bold">
