@@ -595,15 +595,15 @@ export default function Home() {
       {/* Info Panel */}
       <div className="absolute top-4 left-4 bg-black/70 text-white p-4 rounded-lg max-w-xl space-y-4">
         <h1 className="text-xl font-bold">
-          Jupiter's Magnetosphere & Io Plasma Torus
+          Jupiter&apos;s Magnetosphere & Io Plasma Torus
         </h1>
 
         <div className="text-sm space-y-2">
           <p className="font-semibold text-yellow-400">
-            Io's Volcanic Activity:
+            Io&apos;s Volcanic Activity:
           </p>
           <p>
-            Io, Jupiter's innermost Galilean moon, is the most volcanically
+            Io, Jupiter&apos;s innermost Galilean moon, is the most volcanically
             active body in the solar system. Its volcanoes eject sulfur dioxide
             and other materials into space (shown as red particles).
           </p>
@@ -612,7 +612,7 @@ export default function Home() {
           <p>
             The ejected material becomes ionized by solar radiation and electron
             collisions, transforming into a plasma (shown by particles turning
-            blue). This plasma gets trapped by Jupiter's powerful magnetic
+            blue). This plasma gets trapped by Jupiter&apos;s powerful magnetic
             field.
           </p>
 
@@ -620,10 +620,10 @@ export default function Home() {
             Magnetic Field Interaction:
           </p>
           <p>
-            Jupiter's magnetic field (blue lines) is tilted by ~10° from its
-            rotation axis (green line). The field captures the plasma and forces
-            it to corotate with Jupiter, forming a torus-shaped ring of charged
-            particles around Jupiter's equator.
+            Jupiter&apos;s magnetic field (blue lines) is tilted by ~10° from
+            its rotation axis (green line). The field captures the plasma and
+            forces it to corotate with Jupiter, forming a torus-shaped ring of
+            charged particles around Jupiter&apos;s equator.
           </p>
 
           <div className="mt-4 border-t border-gray-600 pt-4">
@@ -653,7 +653,7 @@ export default function Home() {
               </li>
               <li>
                 <span className="text-gray-300">
-                  Io's Plasma Environment During the Galileo Mission
+                  Io&apos;s Plasma Environment During the Galileo Mission
                 </span>{" "}
                 - Frank, L. A., & Paterson, W. R. (2000) Journal of Geophysical
                 Research, 105(A7)
