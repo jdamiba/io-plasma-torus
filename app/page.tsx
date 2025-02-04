@@ -8,7 +8,6 @@ const MAX_PARTICLES = 1000;
 const MAGNETIC_TILT = Math.PI / 10; // ~18 degrees tilt
 const JUPITER_ROTATION_SPEED = 0.002;
 const MAGNETIC_FIELD_STRENGTH = 0.2; // Increased field strength
-const IO_ORBIT_RADIUS = 12;
 const TORUS_RADIUS = 10; // Slightly inside Io's orbit
 const NUM_FIELD_LINES = 16;
 const FIELD_LINE_POINTS = 50;
